@@ -1,0 +1,102 @@
+#page title
+page_title                                : Sposiv - Your Private Place Saver
+
+# App Info
+ios_app_id                                :                                           # Will be populated when app is published
+ios_app_country                           : us
+appstore_link                             :                                           # Will be populated when app is published
+playstore_link                            :                                           # Not applicable - iPhone only
+presskit_download_link                    : 
+
+app_icon                                  : assets/appicon.png                        # Will need to add Sposiv icon
+app_name                                  : Sposiv
+app_price                                 : Free
+app_description                           : Save and organize your favorite places privately on your device
+
+enable_smart_app_banner                   : true
+
+# Information About Yourself
+your_name                                 : Brianna Honeywell
+your_link                                 : https://bhoneywell.github.io/app-pages
+your_city                                 : 
+email_address                             : sposiv.support@gmail.com
+linkedin_username                         :
+linkedin_company                          :
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           : bhoneywell
+youtube_username                          :
+mastodon_link                             :
+
+# Feature List - Sposiv's Key Features
+features                                  :
+
+  - title                                 : Privacy First
+    description                           : All your location data stays on your device. No servers, no tracking, no data collection.
+    fontawesome_icon_name                 : shield-alt
+
+  - title                                 : Save Any Place
+    description                           : Quickly save locations from maps, or add places from other apps using the share extension.
+    fontawesome_icon_name                 : map-marker-alt
+
+  - title                                 : Organize Your Way
+    description                           : Create custom categories, add notes and links, and organize your spots however you like.
+    fontawesome_icon_name                 : folder-open
+
+  - title                                 : Share Extension
+    description                           : Found a great place on Instagram or TikTok? Save it instantly with our share extension.
+    fontawesome_icon_name                 : share-alt
+
+  - title                                 : Works Offline
+    description                           : Your saved places work completely offline. Perfect for travel when you don't have internet.
+    fontawesome_icon_name                 : wifi
+
+  - title                                 : iPhone Optimized
+    description                           : Designed specifically for iPhone with clean, intuitive interface and smooth performance.
+    fontawesome_icon_name                 : mobile-alt
+
+# Theme Settings
+topbar_color                             : "#000000"
+topbar_transparency                      : 0.1
+topbar_title_color                       : "#ffffff"
+
+cover_image                              : assets/headerimage.png
+cover_overlay_color                      : "#363b3d"
+cover_overlay_transparency               : 0.8
+
+device_color                             : black
+
+body_background_color                    : "#ffffff"
+link_color                               : "#1d63ea"
+
+app_title_color                          : "#ffffff"
+app_price_color                          : "#ffffff"
+app_description_color                    : "#ffffff"
+
+feature_title_color                      : "#000000"
+feature_text_color                       : "#666666"
+
+feature_icons_foreground_color           : "#1d63ea"
+feature_icons_background_color           : "#e6e6e6"
+
+social_icons_foreground_color            : "#666666"
+social_icons_background_color            : "#e6e6e6"
+
+footer_text_color                        : "#666666"
+
+# Build settings
+markdown                                 : kramdown
+highlighter                              : rouge
+sass:
+  sass_dir                               : _sass
+  style                                  : compressed
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
