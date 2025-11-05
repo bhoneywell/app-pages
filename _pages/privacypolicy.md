@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: true
+permalink: /privacypolicy/
 ---
 
 **Last updated: November 4, 2025**
