@@ -94,6 +94,11 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
+
+# GitHub Pages settings
+url: "https://bhoneywell.github.io"
+baseurl: "/app-pages"
 
 exclude:
   - README.md
