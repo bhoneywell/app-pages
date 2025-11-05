@@ -1,17 +1,13 @@
 #page title
-page_title                                : Sposiv - Your Private Place Saver
+page_title                                : "Brianna Honeywell - iOS App Developer"
 
-# App Info
-ios_app_id                                :                                           # Will be populated when app is published
-ios_app_country                           : us
-appstore_link                             :                                           # Will be populated when app is published
-playstore_link                            :                                           # Not applicable - iPhone only
-presskit_download_link                    : 
+# Portfolio Info
+site_description                          : "Independent iOS app developer creating privacy-focused apps"
+site_url                                  : "https://bhoneywell.github.io/app-pages"
 
-app_icon                                  : assets/appicon.png                        # Will need to add Sposiv icon
-app_name                                  : Sposiv
-app_price                                 : Free
-app_description                           : Save and organize your favorite places privately on your device
+# Default App Info (can be overridden per app)
+default_app_country                       : us
+default_presskit_link                     :
 
 enable_smart_app_banner                   : true
 
@@ -19,7 +15,7 @@ enable_smart_app_banner                   : true
 your_name                                 : Brianna Honeywell
 your_link                                 : https://bhoneywell.github.io/app-pages
 your_city                                 : 
-email_address                             : sposiv.support@gmail.com
+email_address                             : hello@briannahoneywell.dev
 linkedin_username                         :
 linkedin_company                          :
 facebook_username                         :
