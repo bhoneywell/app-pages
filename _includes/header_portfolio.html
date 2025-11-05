@@ -1,0 +1,18 @@
+<header>
+	<div class="logo">
+		<div class="portfolio-branding">
+			{% if page.url != '/' %}
+				<a href="/" target="_self"><h2>{{ site.your_name }}</h2></a>
+			{% else %}
+				<h2>{{ site.your_name }}</h2>
+			{% endif %}
+			<p class="tagline">iOS App Developer</p>
+		</div>
+	</div>
+	<nav class="scroll">
+		<ul>
+			<li><a href="/" target="_self">Home</a></li>
+			<li><a href="/sposiv/" target="_self">Sposiv</a></li>
+		</ul>
+	</nav>
+</header>
