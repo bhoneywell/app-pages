@@ -8,7 +8,7 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Not applicable - iPhone only
 presskit_download_link                    : 
 
-app_icon                                  : assets/sposiv/appicon.png
+app_icon                                  : assets/appicon.png
 app_name                                  : Sposiv
 app_price                                 : Free
 app_description                           : Save and organize your favorite places privately on your device
