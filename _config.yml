@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true
 your_name                                 : Brianna Honeywell
 your_link                                 : https://bhoneywell.github.io/app-pages
 your_city                                 : 
-email_address                             : sposiv.support@gmail.com
+email_address                             : sposiv.app@gmail.com
 linkedin_username                         :
 linkedin_company                          :
 facebook_username                         :
@@ -91,6 +91,12 @@ highlighter                              : rouge
 sass:
   sass_dir                               : _sass
   style                                  : compressed
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
 
 plugins:
   - jekyll-sitemap

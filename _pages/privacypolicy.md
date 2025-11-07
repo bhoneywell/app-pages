@@ -148,7 +148,7 @@ Continued use of the App after changes constitutes acceptance of the updated Pri
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email**: [sposiv.support@gmail.com](mailto:sposiv.support@gmail.com)
+**Email**: [sposiv.app@gmail.com](mailto:sposiv.app@gmail.com)
 
 We are committed to resolving any privacy concerns you may have.
 
