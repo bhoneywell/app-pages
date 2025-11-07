@@ -3,11 +3,6 @@ layout: page
 title: Privacy Policy
 include_in_header: true
 permalink: /privacypolicy/
-redirect_from:
-  - /privacypolicy
-  - /privacypolicy.html
-  - /privacy/
-  - /privacy
 ---
 
 **Last updated: November 4, 2025**

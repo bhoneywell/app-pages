@@ -3,10 +3,6 @@ layout: page
 title: Terms of Service
 include_in_header: true
 permalink: /terms/
-redirect_from:
-  - /terms-and-conditions/
-  - /terms-of-service/
-  - /tos/
 ---
 
 **Last updated: October 11, 2025**
