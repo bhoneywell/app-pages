@@ -2,9 +2,9 @@
 page_title                                : Sposiv - Your Private Place Saver
 
 # App Info
-ios_app_id                                :                                           # Will be populated when app is published
+ios_app_id                                : 6754205666                                           # Will be populated when app is published
 ios_app_country                           : us
-appstore_link                             :                                           # Will be populated when app is published
+appstore_link                             : https://apps.apple.com/us/app/sposiv/id6754205666                                           # Will be populated when app is published
 playstore_link                            :                                           # Not applicable - iPhone only
 presskit_download_link                    : 
 
