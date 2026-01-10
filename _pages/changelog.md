@@ -54,3 +54,17 @@ Tutorial highlights now actually align with what they're highlighting. Turns out
 Still 100% private. Still no account needed. Still just yours.
 
 <br>
+
+## Version 1.0.1
+**Making a Good First Impression**
+
+We freshened up the App Store screenshots so you can see exactly what Sposiv looks like before you download it. Because let's be honest, you judge apps by their screenshots. We do too.
+
+#### What Changed
+- Updated App Store metadata with new screenshots
+- Polished the storefront presentation
+- No changes to the app itself - it still works exactly the same
+
+**Still the same promise:** Your places, your device, your privacy.
+
+<br>
