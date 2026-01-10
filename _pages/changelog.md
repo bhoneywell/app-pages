@@ -1,16 +1,29 @@
 ---
 layout: page
-title: What's New
+title: Changelog
 include_in_header: true
 ---
 
-# What's New in Sposiv
+# Changelog
 
 Stay up to date with the latest improvements and fixes to Sposiv, your private place saver.
 
 <br>
 
 ### `Latest`
+# **Version 1.0**
+Welcome to Sposiv - your private place saver! Save and organize your favorite places without any tracking, servers, or accounts. Everything stays on your device.
+
+#### Features
+- Save any place with just a tap
+- Organize with custom categories
+- Add notes and links to your spots
+- Share extension for easy saving from other apps
+- Works completely offline
+- 100% private - no data collection
+
+<br>
+
 ## **Version 1.0.3**
 **The Share Extension Learned Some Manners**
 
@@ -39,22 +52,5 @@ Tutorial highlights now actually align with what they're highlighting. Turns out
 **The real update:** We're constantly making Sposiv better behind the scenes. No flashy features this time, just the app working exactly how you expect it to. Which, honestly, is the best feature of all.
 
 Still 100% private. Still no account needed. Still just yours.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
-## **Version 1.0**
-Welcome to Sposiv - your private place saver! Save and organize your favorite places without any tracking, servers, or accounts. Everything stays on your device.
-
-#### Features
-- Save any place with just a tap
-- Organize with custom categories
-- Add notes and links to your spots
-- Share extension for easy saving from other apps
-- Works completely offline
-- 100% private - no data collection
 
 <br>
